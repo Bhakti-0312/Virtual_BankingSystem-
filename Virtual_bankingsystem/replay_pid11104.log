@@ -1,0 +1,574 @@
+version 2
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 1
+JvmtiExport can_post_on_exceptions 0
+# 352 ciObject found
+instanceKlass java/awt/DefaultKeyboardFocusManager
+ciInstanceKlass java/lang/Cloneable 1 0 7 100 1 100 1 1 1
+instanceKlass javax/swing/JComponent$IntVector
+instanceKlass javax/swing/JComponent$KeyboardState
+instanceKlass sun/awt/DebugSettings
+instanceKlass javax/swing/Autoscroller
+instanceKlass  @bci Landing <init> ()V 227 <appendix> member <vmtarget> ; # Landing$$Lambda+0x0000021f4f0059d0
+instanceKlass  @bci Landing <init> ()V 216 <appendix> member <vmtarget> ; # Landing$$Lambda+0x0000021f4f0057a8
+instanceKlass  @bci Landing <init> ()V 205 <appendix> member <vmtarget> ; # Landing$$Lambda+0x0000021f4f005580
+instanceKlass java/awt/LightweightDispatcher$2
+instanceKlass java/awt/Window$1DisposeAction
+instanceKlass sun/awt/SunToolkit$1
+instanceKlass java/awt/KeyboardFocusManager$2
+instanceKlass sun/awt/ModalExclude
+instanceKlass java/awt/WaitDispatchSupport$4
+instanceKlass java/awt/WaitDispatchSupport$2
+instanceKlass java/awt/WaitDispatchSupport$1
+instanceKlass java/awt/WaitDispatchSupport$5
+instanceKlass java/awt/WaitDispatchSupport
+instanceKlass java/awt/SecondaryLoop
+instanceKlass  @bci java/awt/Dialog show ()V 205 <appendix> argL0 ; # java/awt/Dialog$$Lambda+0x0000021f4f12abf0
+instanceKlass  @cpi java/awt/Dialog 857 form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$DMH+0x0000021f4f141c00
+instanceKlass  @bci java/awt/Dialog show ()V 189 <appendix> member <vmtarget> ; # java/awt/Dialog$$Lambda+0x0000021f4f12a9c8
+instanceKlass java/util/Vector$Itr
+instanceKlass java/awt/ModalEventFilter$1
+instanceKlass java/awt/peer/FileDialogPeer
+instanceKlass java/util/AbstractList$Itr
+instanceKlass java/awt/event/WindowAdapter
+instanceKlass javax/swing/JOptionPane$1
+instanceKlass java/awt/GridBagLayoutInfo
+instanceKlass javax/swing/SizeRequirements
+instanceKlass javax/sound/sampled/LineListener
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f141800
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f141400
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f141000
+instanceKlass java/awt/peer/DialogPeer
+instanceKlass javax/swing/KeyboardManager$ComponentKeyStrokePair
+instanceKlass javax/swing/plaf/basic/BasicOptionPaneUI$Handler
+instanceKlass javax/swing/plaf/basic/BasicOptionPaneUI$2
+instanceKlass javax/swing/plaf/basic/BasicOptionPaneUI$ButtonActionListener
+instanceKlass javax/swing/KeyboardManager
+instanceKlass javax/swing/plaf/basic/BasicOptionPaneUI$ButtonFactory
+instanceKlass javax/swing/plaf/basic/BasicOptionPaneUI$ButtonAreaLayout
+instanceKlass  @bci sun/awt/image/ImageWatched$WeakLink update (Ljava/awt/image/ImageObserver;Ljava/security/AccessControlContext;Ljava/awt/Image;IIIII)Z 21 <adapter> ; # java/lang/invoke/LambdaForm$MH+0x0000021f4f140c00
+# instanceKlass java/lang/invoke/LambdaForm$DMH+0x0000021f4f140800
+instanceKlass  @bci sun/awt/image/ImageWatched$WeakLink update (Ljava/awt/image/ImageObserver;Ljava/security/AccessControlContext;Ljava/awt/Image;IIIII)Z 21 <appendix> form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$DMH+0x0000021f4f140400
+instanceKlass  @bci sun/awt/image/ImageWatched$WeakLink update (Ljava/awt/image/ImageObserver;Ljava/security/AccessControlContext;Ljava/awt/Image;IIIII)Z 21 <appendix> member <vmtarget> ; # sun/awt/image/ImageWatched$WeakLink$$Lambda+0x0000021f4f122050
+instanceKlass  @cpi sun/awt/image/ImageWatched$WeakLink 112 form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$DMH+0x0000021f4f140000
+instanceKlass sun/awt/image/PNGImageDecoder$Chromaticities
+instanceKlass sun/awt/image/ImageDecoder
+instanceKlass java/awt/MediaEntry
+instanceKlass sun/awt/image/ImageFetcher$1
+instanceKlass sun/awt/image/FetcherInfo
+instanceKlass sun/awt/image/ImageConsumerQueue
+instanceKlass sun/awt/image/ImageWatched$Link
+instanceKlass sun/awt/image/ImageWatched
+instanceKlass java/awt/image/ImageConsumer
+instanceKlass sun/awt/image/InputStreamImageSource
+instanceKlass sun/awt/image/ImageFetchable
+instanceKlass java/awt/image/ImageProducer
+instanceKlass java/awt/MediaTracker
+instanceKlass javax/swing/ImageIcon$2
+instanceKlass javax/swing/ImageIcon$1
+instanceKlass javax/swing/ImageIcon
+instanceKlass  @bci sun/swing/SwingUtilities2 lambda$makeIcon$1 (ZLjava/lang/Class;Ljava/lang/Class;Ljava/lang/String;Ljavax/swing/UIDefaults;)Ljava/lang/Object; 7 <appendix> member <vmtarget> ; # sun/swing/SwingUtilities2$$Lambda+0x0000021f4f11c7b8
+instanceKlass java/awt/GridBagConstraints
+instanceKlass java/awt/GridBagLayout
+instanceKlass java/awt/LightweightDispatcher$1
+instanceKlass java/awt/Container$MouseEventTargetFilter
+instanceKlass java/awt/Container$EventTargetFilter
+instanceKlass java/awt/Cursor$CursorDisposer
+instanceKlass java/awt/event/MouseEvent$1
+instanceKlass sun/awt/AWTAccessor$MouseEventAccessor
+instanceKlass java/text/AttributedString$AttributedStringIterator
+instanceKlass java/text/AttributedCharacterIterator
+instanceKlass java/text/AttributedString
+instanceKlass sun/awt/im/CompositionAreaHandler
+instanceKlass java/awt/KeyboardFocusManager$3
+instanceKlass java/lang/foreign/MemorySegment
+instanceKlass sun/font/SunFontManager$9
+instanceKlass sun/font/SunFontManager$8
+instanceKlass java/io/RandomAccessFile$1
+instanceKlass java/awt/geom/Path2D$Iterator
+instanceKlass java/awt/geom/PathIterator
+instanceKlass sun/java2d/pipe/ShapeSpanIterator
+instanceKlass sun/awt/geom/PathConsumer2D
+instanceKlass sun/java2d/pipe/SpanIterator
+instanceKlass jdk/internal/foreign/MemorySessionImpl
+instanceKlass java/lang/foreign/MemorySegment$Scope
+instanceKlass sun/util/locale/InternalLocaleBuilder$CaseInsensitiveChar
+instanceKlass sun/util/locale/InternalLocaleBuilder
+instanceKlass sun/util/locale/StringTokenIterator
+instanceKlass sun/util/locale/ParseStatus
+instanceKlass sun/util/locale/LanguageTag
+instanceKlass sun/awt/im/InputMethodAdapter
+instanceKlass java/awt/im/spi/InputMethod
+instanceKlass java/awt/im/spi/InputMethodContext
+instanceKlass java/awt/im/InputMethodRequests
+instanceKlass java/awt/im/InputContext
+instanceKlass javax/swing/plaf/basic/BasicGraphicsUtils
+instanceKlass javax/swing/text/Utilities
+instanceKlass javax/swing/text/SegmentCache
+instanceKlass sun/java2d/loops/FontInfo
+instanceKlass java/awt/PrintGraphics
+instanceKlass java/awt/print/PrinterGraphics
+instanceKlass sun/font/StrikeCache$DisposableStrike
+instanceKlass sun/font/FontStrikeDisposer
+instanceKlass sun/java2d/Disposer$PollDisposable
+instanceKlass sun/font/CMap
+instanceKlass sun/font/FontScaler
+instanceKlass sun/font/FontStrikeDesc
+instanceKlass sun/font/SunFontManager$3
+instanceKlass sun/font/TrueTypeFont$DirectoryEntry
+instanceKlass jdk/internal/misc/Blocker
+instanceKlass sun/nio/ch/IOStatus
+instanceKlass sun/nio/ch/NativeThreadSet
+instanceKlass java/nio/channels/spi/AbstractInterruptibleChannel$1
+instanceKlass sun/nio/ch/Interruptible
+instanceKlass java/nio/file/attribute/FileAttribute
+instanceKlass java/nio/channels/spi/AbstractInterruptibleChannel
+instanceKlass java/nio/channels/InterruptibleChannel
+instanceKlass java/nio/channels/ScatteringByteChannel
+instanceKlass java/nio/channels/GatheringByteChannel
+instanceKlass java/nio/channels/SeekableByteChannel
+instanceKlass java/nio/channels/ByteChannel
+instanceKlass java/nio/channels/WritableByteChannel
+instanceKlass java/nio/channels/ReadableByteChannel
+instanceKlass java/nio/channels/Channel
+instanceKlass sun/font/TrueTypeFont$1
+instanceKlass sun/font/TrueTypeFont$TTDisposerRecord
+instanceKlass sun/font/SunFontManager$FamilyDescription
+instanceKlass sun/font/FontDesignMetrics$MetricsKey
+instanceKlass java/awt/FontMetrics
+instanceKlass sun/swing/SwingUtilities2$KeyPair
+instanceKlass sun/java2d/pipe/AlphaPaintPipe$TileContext
+instanceKlass java/awt/GradientPaintContext
+instanceKlass java/awt/PaintContext
+instanceKlass java/awt/GradientPaint
+instanceKlass sun/swing/ImageCache$Entry
+instanceKlass sun/swing/ImageCache
+instanceKlass java/awt/image/MultiResolutionImage
+instanceKlass sun/swing/CachedPainter
+instanceKlass sun/awt/image/BufImgSurfaceData$ICMColorData
+instanceKlass java/awt/image/BufferedImage$1
+instanceKlass java/awt/image/WritableRenderedImage
+instanceKlass java/awt/image/RenderedImage
+instanceKlass sun/awt/image/NativeLibLoader$1
+instanceKlass sun/awt/image/NativeLibLoader
+instanceKlass java/awt/image/SampleModel
+instanceKlass java/awt/image/DataBuffer$1
+instanceKlass sun/awt/image/SunWritableRaster$DataStealer
+instanceKlass java/awt/image/DataBuffer
+instanceKlass java/awt/image/Raster
+instanceKlass sun/java2d/opengl/OGLGraphicsConfig
+instanceKlass sun/awt/SunGraphicsCallback
+instanceKlass sun/java2d/pipe/hw/AccelSurface
+instanceKlass javax/swing/RepaintManager$4
+instanceKlass java/awt/KeyboardFocusManager$LightweightFocusRequest
+instanceKlass java/awt/DefaultKeyboardFocusManager$TypeAheadMarker
+instanceKlass java/awt/KeyboardFocusManager$HeavyweightFocusRequest
+instanceKlass sun/awt/KeyboardFocusManagerPeerImpl$KfmAccessor
+instanceKlass sun/awt/GlobalCursorManager$NativeUpdater
+instanceKlass sun/awt/GlobalCursorManager
+instanceKlass javax/swing/RepaintManager$2$1
+instanceKlass java/util/LinkedList$ListItr
+instanceKlass java/awt/TrayIcon
+instanceKlass java/awt/MenuComponent
+instanceKlass java/awt/SplashScreen
+instanceKlass javax/swing/plaf/metal/MetalUtils
+instanceKlass sun/awt/NullComponentPeer
+instanceKlass sun/awt/LightweightPeerHolder
+instanceKlass java/awt/peer/LightweightPeer
+instanceKlass sun/awt/im/ExecutableInputMethodManager$3
+instanceKlass sun/awt/im/InputMethodLocator
+instanceKlass sun/awt/windows/WInputMethodDescriptor
+instanceKlass java/awt/im/spi/InputMethodDescriptor
+instanceKlass sun/awt/im/InputMethodManager
+instanceKlass  @bci sun/awt/windows/WToolkit getFontPeer (Ljava/lang/String;I)Ljava/awt/peer/FontPeer; 94 <appendix> form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$MH+0x0000021f4f0c4000
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f0c3c00
+instanceKlass  @bci sun/awt/windows/WToolkit getFontPeer (Ljava/lang/String;I)Ljava/awt/peer/FontPeer; 94 <appendix> argL3 form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$MH+0x0000021f4f0c3800
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f0c3400
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f0c3000
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f0c2c00
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f0c2800
+instanceKlass  @bci sun/awt/windows/WToolkit getFontPeer (Ljava/lang/String;I)Ljava/awt/peer/FontPeer; 94 <appendix> argL1 form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$MH+0x0000021f4f0c2400
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f0c2000
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f0c1c00
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f0c1800
+instanceKlass sun/awt/FontConfiguration$2
+instanceKlass sun/awt/Win32FontManager$2
+instanceKlass sun/font/FontFamily
+instanceKlass sun/font/CompositeFontDescriptor
+instanceKlass sun/font/SunFontManager$FontRegistrationInfo
+instanceKlass java/lang/Short$ShortCache
+instanceKlass sun/awt/FontDescriptor
+instanceKlass sun/awt/FontConfiguration
+instanceKlass sun/font/SunFontManager$2
+instanceKlass sun/awt/Win32FontManager$1
+instanceKlass sun/font/PlatformFontInfo
+instanceKlass sun/font/FontManagerFactory
+instanceKlass sun/font/GlyphList
+instanceKlass sun/font/StrikeCache$1
+instanceKlass sun/font/StrikeCache
+instanceKlass sun/font/FontStrike
+instanceKlass sun/font/CharToGlyphMapper
+instanceKlass sun/font/StrikeMetrics
+instanceKlass sun/font/Font2D
+instanceKlass sun/font/FontManagerNativeLibrary$1
+instanceKlass sun/font/FontManagerNativeLibrary
+instanceKlass sun/font/SunFontManager$1
+instanceKlass sun/font/SunFontManager$T1Filter
+instanceKlass sun/font/SunFontManager$TTFilter
+instanceKlass java/io/FilenameFilter
+instanceKlass sun/font/Font2DHandle
+instanceKlass sun/font/SunFontManager
+instanceKlass sun/font/FontManagerForSGE
+instanceKlass sun/font/FontManager
+instanceKlass sun/java2d/FontSupport
+instanceKlass sun/awt/NativeLibLoader$1
+instanceKlass sun/awt/NativeLibLoader
+instanceKlass sun/awt/PlatformFont
+instanceKlass java/awt/peer/FontPeer
+instanceKlass  @bci java/awt/SystemColor <clinit> ()V 643 <appendix> argL0 ; # java/awt/SystemColor$$Lambda+0x0000021f4f0dac88
+instanceKlass  @cpi java/awt/SystemColor 241 form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$DMH+0x0000021f4f0c1400
+instanceKlass sun/awt/AWTAccessor$SystemColorAccessor
+instanceKlass sun/java2d/StateTracker$2
+instanceKlass sun/java2d/StateTracker$1
+instanceKlass sun/java2d/StateTracker
+instanceKlass sun/java2d/SurfaceDataProxy
+instanceKlass sun/awt/image/SurfaceManager$FlushableCacheData
+instanceKlass sun/java2d/DefaultDisposerRecord
+instanceKlass java/util/TimSort
+instanceKlass sun/java2d/loops/GraphicsPrimitiveMgr$PrimitiveSpec
+instanceKlass sun/java2d/loops/RenderLoops
+instanceKlass sun/java2d/windows/GDIRenderer
+instanceKlass sun/java2d/loops/GraphicsPrimitiveMgr$2
+instanceKlass sun/java2d/loops/GraphicsPrimitiveMgr$1
+instanceKlass sun/java2d/loops/GeneralRenderer
+instanceKlass sun/java2d/loops/CustomComponent
+instanceKlass sun/java2d/pipe/ValidatePipe
+instanceKlass java/awt/BasicStroke
+instanceKlass java/awt/Stroke
+instanceKlass java/awt/geom/Path2D
+instanceKlass java/awt/AlphaComposite
+instanceKlass sun/awt/ConstrainableGraphics
+instanceKlass sun/java2d/loops/GraphicsPrimitiveMgr
+instanceKlass sun/java2d/loops/CompositeType
+instanceKlass sun/java2d/loops/GraphicsPrimitiveMgr$GeneralPrimitives
+instanceKlass sun/java2d/loops/GraphicsPrimitive
+instanceKlass sun/java2d/loops/XORComposite
+instanceKlass java/awt/Composite
+instanceKlass sun/java2d/pipe/hw/AccelGraphicsConfig
+instanceKlass sun/java2d/pipe/hw/BufferedContextProvider
+instanceKlass  @bci sun/java2d/d3d/D3DScreenUpdateManager lambda$new$1 ()Ljava/lang/Void; 1 <appendix> member <vmtarget> ; # sun/java2d/d3d/D3DScreenUpdateManager$$Lambda+0x0000021f4f0d1530
+instanceKlass  @bci sun/java2d/d3d/D3DScreenUpdateManager <init> ()V 21 <appendix> member <vmtarget> ; # sun/java2d/d3d/D3DScreenUpdateManager$$Lambda+0x0000021f4f0d1308
+instanceKlass sun/java2d/ScreenUpdateManager
+instanceKlass javax/swing/RepaintManager$2
+instanceKlass sun/awt/windows/WComponentPeer$2
+instanceKlass  @bci sun/awt/windows/WWindowPeer displayChanged ()V 5 <appendix> member <vmtarget> ; # sun/awt/windows/WWindowPeer$$Lambda+0x0000021f4f0ff328
+instanceKlass  @cpi sun/awt/windows/WWindowPeer 861 form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$DMH+0x0000021f4f0c1000
+instanceKlass sun/awt/im/InputMethodWindow
+instanceKlass sun/awt/ExtendedKeyCodes
+instanceKlass sun/awt/RepaintArea
+instanceKlass sun/awt/windows/WWindowPeer$GuiDisposedListener
+instanceKlass sun/awt/windows/WWindowPeer$ActiveWindowListener
+instanceKlass java/awt/peer/CanvasPeer
+instanceKlass java/awt/peer/PanelPeer
+instanceKlass java/awt/peer/FramePeer
+instanceKlass java/awt/peer/WindowPeer
+instanceKlass java/awt/peer/ContainerPeer
+instanceKlass  @bci Profile <init> (Ljava/lang/String;)V 424 <appendix> member <vmtarget> ; # Profile$$Lambda+0x0000021f4f005358
+instanceKlass  @cpi Profile 292 form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$DMH+0x0000021f4f0c0c00
+instanceKlass  @bci Profile <init> (Ljava/lang/String;)V 408 <appendix> member <vmtarget> ; # Profile$$Lambda+0x0000021f4f005130
+instanceKlass  @bci Profile <init> (Ljava/lang/String;)V 396 <appendix> member <vmtarget> ; # Profile$$Lambda+0x0000021f4f002d28
+instanceKlass javax/swing/plaf/basic/BasicComboBoxUI$DefaultKeySelectionManager
+instanceKlass javax/swing/JComboBox$KeySelectionManager
+instanceKlass javax/swing/plaf/metal/MetalComboBoxIcon
+instanceKlass javax/swing/plaf/basic/BasicComboBoxUI$Handler
+instanceKlass javax/swing/plaf/basic/BasicComboBoxUI$PropertyChangeHandler
+instanceKlass javax/swing/text/Segment
+instanceKlass java/text/CharacterIterator
+instanceKlass javax/swing/JTextField$ScrollRepainter
+instanceKlass javax/swing/plaf/synth/SynthUI
+instanceKlass javax/swing/plaf/synth/SynthConstants
+instanceKlass java/util/Hashtable$Enumerator
+instanceKlass javax/swing/text/JTextComponent$DefaultKeymap
+instanceKlass javax/swing/text/Keymap
+instanceKlass javax/swing/text/PlainView$1
+instanceKlass javax/swing/text/PlainView$FPMethodItem
+instanceKlass javax/swing/text/TabExpander
+instanceKlass javax/swing/text/StyleContext$KeyEnumeration
+instanceKlass javax/swing/text/GapContent$StickyPosition
+instanceKlass javax/swing/text/Position
+instanceKlass javax/swing/text/AbstractDocument$1
+instanceKlass javax/swing/text/AbstractDocument$AbstractElement
+instanceKlass javax/swing/tree/TreeNode
+instanceKlass javax/swing/text/Element
+instanceKlass java/util/LinkedHashMap$LinkedHashIterator
+instanceKlass java/util/Collections$3
+instanceKlass javax/swing/text/StyleContext$SmallAttributeSet
+instanceKlass javax/swing/text/StyleContext$NamedStyle
+instanceKlass javax/swing/text/Style
+instanceKlass javax/swing/text/SimpleAttributeSet$EmptyAttributeSet
+instanceKlass javax/swing/text/SimpleAttributeSet
+instanceKlass javax/swing/text/MutableAttributeSet
+instanceKlass javax/swing/text/AttributeSet
+instanceKlass javax/swing/text/StyleContext$FontKey
+instanceKlass javax/swing/text/AttributeSet$ParagraphAttribute
+instanceKlass javax/swing/text/AttributeSet$ColorAttribute
+instanceKlass javax/swing/text/AttributeSet$FontAttribute
+instanceKlass javax/swing/text/AttributeSet$CharacterAttribute
+instanceKlass javax/swing/text/StyleConstants
+instanceKlass javax/swing/text/StyleContext
+instanceKlass javax/swing/text/AbstractDocument$AttributeContext
+instanceKlass javax/swing/text/GapVector
+instanceKlass javax/swing/text/AbstractDocument$Content
+instanceKlass javax/swing/text/AbstractDocument
+instanceKlass javax/swing/text/DefaultHighlighter$SafeDamager
+instanceKlass javax/swing/text/LayeredHighlighter$LayerPainter
+instanceKlass javax/swing/text/Highlighter$HighlightPainter
+instanceKlass javax/swing/text/Highlighter$Highlight
+instanceKlass javax/swing/text/LayeredHighlighter
+instanceKlass javax/swing/text/Highlighter
+instanceKlass javax/swing/text/Document
+instanceKlass javax/swing/text/DefaultCaret$Handler
+instanceKlass java/awt/datatransfer/ClipboardOwner
+instanceKlass javax/swing/text/Caret
+instanceKlass javax/swing/plaf/basic/BasicTextUI$UpdateHandler
+instanceKlass javax/swing/event/DocumentListener
+instanceKlass javax/swing/text/View
+instanceKlass javax/swing/text/Position$Bias
+instanceKlass javax/swing/text/EditorKit
+instanceKlass javax/swing/text/ViewFactory
+instanceKlass javax/swing/AbstractAction
+instanceKlass com/sun/beans/util/Cache$CacheEntry
+instanceKlass com/sun/beans/util/Cache
+instanceKlass javax/swing/text/JTextComponent$1
+instanceKlass sun/swing/SwingAccessor$JTextComponentAccessor
+instanceKlass javax/swing/plaf/basic/BasicComboBoxEditor
+instanceKlass javax/swing/ComboBoxEditor
+instanceKlass java/awt/EventQueue$5
+instanceKlass java/awt/EventQueue$4
+instanceKlass sun/awt/dnd/SunDragSourceContextPeer
+instanceKlass javax/swing/plaf/metal/MetalScrollPaneUI$1
+instanceKlass java/awt/dnd/peer/DragSourceContextPeer
+instanceKlass javax/swing/plaf/basic/BasicScrollPaneUI$Handler
+instanceKlass java/awt/ModalEventFilter
+instanceKlass java/awt/EventDispatchThread$HierarchyEventFilter
+instanceKlass java/awt/EventFilter
+instanceKlass java/awt/EventDispatchThread$1
+instanceKlass java/awt/Conditional
+instanceKlass java/awt/EventQueue$6
+instanceKlass sun/awt/EventQueueItem
+instanceKlass java/awt/SequencedEvent$2
+instanceKlass java/awt/SequencedEvent$1
+instanceKlass sun/awt/AWTAccessor$SequencedEventAccessor
+instanceKlass java/awt/event/InvocationEvent$1
+instanceKlass sun/awt/AWTAccessor$InvocationEventAccessor
+instanceKlass java/awt/ActiveEvent
+instanceKlass  @bci javax/swing/JComponent revalidate ()V 44 <appendix> member <vmtarget> ; # javax/swing/JComponent$$Lambda+0x0000021f4f0b00d8
+instanceKlass java/awt/event/ComponentAdapter
+instanceKlass javax/swing/plaf/basic/BasicScrollBarUI$ScrollListener
+instanceKlass javax/swing/plaf/basic/BasicScrollBarUI$Handler
+instanceKlass javax/swing/plaf/basic/BasicScrollBarUI$PropertyChangeHandler
+instanceKlass javax/swing/plaf/basic/BasicScrollBarUI$ModelListener
+instanceKlass java/beans/VetoableChangeListener
+instanceKlass javax/swing/plaf/basic/BasicButtonListener
+instanceKlass javax/swing/plaf/metal/MetalBorders
+instanceKlass javax/swing/AbstractButton$Handler
+instanceKlass javax/swing/DefaultButtonModel
+instanceKlass javax/swing/ButtonModel
+instanceKlass javax/swing/plaf/metal/MetalBumps
+instanceKlass javax/swing/Icon
+instanceKlass javax/swing/DefaultBoundedRangeModel
+instanceKlass javax/swing/BoundedRangeModel
+instanceKlass javax/swing/JScrollBar$ModelListener
+instanceKlass java/awt/Adjustable
+instanceKlass javax/swing/ViewportLayout
+instanceKlass javax/swing/ScrollPaneLayout
+instanceKlass javax/swing/ScrollPaneConstants
+instanceKlass javax/swing/plaf/basic/BasicComboPopup$Handler
+instanceKlass javax/swing/plaf/basic/BasicListUI$Handler
+instanceKlass javax/swing/plaf/basic/DragRecognitionSupport$BeforeDrag
+instanceKlass javax/swing/event/MouseInputListener
+instanceKlass javax/swing/event/ListSelectionListener
+instanceKlass javax/swing/TransferHandler$TransferSupport
+instanceKlass javax/swing/TransferHandler$DropHandler
+instanceKlass java/awt/datatransfer/SystemFlavorMap$SoftCache
+instanceKlass  @bci java/awt/datatransfer/SystemFlavorMap getDefaultFlavorMap ()Ljava/awt/datatransfer/FlavorMap; 3 <appendix> argL0 ; # java/awt/datatransfer/SystemFlavorMap$$Lambda+0x0000021f4f09f360
+instanceKlass java/awt/datatransfer/DataFlavor
+instanceKlass java/io/Externalizable
+instanceKlass sun/awt/datatransfer/DesktopDatatransferServiceImpl
+instanceKlass sun/datatransfer/DataFlavorUtil$DefaultDesktopDatatransferService
+instanceKlass sun/datatransfer/DesktopDatatransferService
+instanceKlass sun/datatransfer/DataFlavorUtil
+instanceKlass java/awt/datatransfer/SystemFlavorMap
+instanceKlass java/awt/datatransfer/FlavorTable
+instanceKlass java/awt/datatransfer/FlavorMap
+instanceKlass java/awt/dnd/DropTargetContext$1
+instanceKlass sun/awt/AWTAccessor$DropTargetContextAccessor
+instanceKlass java/awt/dnd/DropTargetContext
+instanceKlass java/awt/dnd/DropTarget
+instanceKlass java/awt/dnd/DropTargetListener
+instanceKlass javax/swing/ListCellRenderer
+instanceKlass sun/swing/UIAction
+instanceKlass javax/swing/Action
+instanceKlass javax/swing/TransferHandler
+instanceKlass java/util/BitSet
+instanceKlass javax/swing/DefaultListSelectionModel
+instanceKlass javax/swing/ListSelectionModel
+instanceKlass java/awt/event/KeyAdapter
+instanceKlass java/awt/event/MouseMotionAdapter
+instanceKlass javax/swing/ToolTipManager$stillInsideTimerAction
+instanceKlass javax/swing/ToolTipManager$outsideTimerAction
+instanceKlass javax/swing/Timer$DoPostEvent
+instanceKlass javax/swing/ToolTipManager$insideTimerAction
+instanceKlass javax/swing/Timer
+instanceKlass java/awt/event/MouseAdapter
+instanceKlass java/awt/event/FocusAdapter
+instanceKlass javax/swing/plaf/basic/BasicPopupMenuUI$MenuKeyboardHelper
+instanceKlass javax/swing/MenuSelectionManager
+instanceKlass javax/swing/plaf/basic/BasicPopupMenuUI$MouseGrabber
+instanceKlass javax/swing/event/ChangeListener
+instanceKlass javax/swing/plaf/basic/BasicPopupMenuUI$BasicMenuKeyListener
+instanceKlass javax/swing/event/MenuKeyListener
+instanceKlass javax/swing/plaf/basic/BasicPopupMenuUI$BasicPopupMenuListener
+instanceKlass javax/swing/event/PopupMenuListener
+instanceKlass javax/swing/BoxLayout
+instanceKlass javax/swing/plaf/basic/BasicLookAndFeel$1
+instanceKlass java/awt/Toolkit$SelectiveAWTEventListener
+instanceKlass javax/swing/plaf/basic/BasicLookAndFeel$AWTEventHelper
+instanceKlass javax/swing/DefaultSingleSelectionModel
+instanceKlass javax/swing/SingleSelectionModel
+instanceKlass javax/swing/plaf/basic/BasicComboPopup$EmptyListModelClass
+instanceKlass javax/swing/plaf/basic/ComboPopup
+instanceKlass javax/swing/plaf/basic/BasicComboBoxUI$ComboBoxLayoutManager
+instanceKlass java/awt/Graphics
+instanceKlass java/awt/AWTEventMulticaster
+instanceKlass java/awt/event/MouseWheelListener
+instanceKlass java/awt/event/HierarchyBoundsListener
+instanceKlass java/awt/event/HierarchyListener
+instanceKlass java/awt/event/InputMethodListener
+instanceKlass java/awt/event/TextListener
+instanceKlass java/awt/event/AdjustmentListener
+instanceKlass java/awt/event/ItemListener
+instanceKlass java/awt/event/WindowStateListener
+instanceKlass java/awt/event/WindowFocusListener
+instanceKlass java/awt/event/WindowListener
+instanceKlass java/awt/event/MouseMotionListener
+instanceKlass java/awt/event/MouseListener
+instanceKlass java/awt/event/KeyListener
+instanceKlass java/awt/event/FocusListener
+instanceKlass java/awt/event/ContainerListener
+instanceKlass javax/swing/AncestorNotifier
+instanceKlass java/awt/event/ComponentListener
+instanceKlass javax/swing/ClientPropertyKey$1
+instanceKlass sun/awt/AWTAccessor$ClientPropertyKeyAccessor
+instanceKlass javax/swing/JComboBox$1
+instanceKlass javax/swing/event/AncestorListener
+instanceKlass javax/swing/AbstractListModel
+instanceKlass javax/swing/MutableComboBoxModel
+instanceKlass javax/swing/ComboBoxModel
+instanceKlass javax/swing/ListModel
+instanceKlass javax/swing/MenuElement
+instanceKlass javax/swing/plaf/basic/BasicHTML
+instanceKlass javax/swing/plaf/metal/DefaultMetalTheme$FontDelegate$1
+instanceKlass javax/swing/ActionMap
+instanceKlass  @bci jdk/internal/reflect/MethodHandleIntegerFieldAccessorImpl getInt (Ljava/lang/Object;)I 11 <adapter> ; # java/lang/invoke/LambdaForm$MH+0x0000021f4f0c0800
+instanceKlass jdk/internal/reflect/FieldAccessor
+instanceKlass java/awt/event/KeyEvent$1
+instanceKlass sun/awt/AWTAccessor$KeyEventAccessor
+instanceKlass java/awt/VKCollection
+instanceKlass java/util/StringTokenizer
+instanceKlass javax/swing/InputMap
+instanceKlass javax/swing/LayoutComparator
+instanceKlass javax/swing/RepaintManager$PaintManager
+instanceKlass javax/swing/JRootPane$RootLayout
+instanceKlass javax/swing/ArrayTable
+instanceKlass com/sun/java/swing/SwingUtilities3
+instanceKlass javax/swing/RepaintManager$ProcessingRunnable
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f0c0400
+# instanceKlass java/lang/invoke/LambdaForm$MH+0x0000021f4f0c0000
+instanceKlass javax/swing/plaf/ComponentUI
+instanceKlass sun/reflect/misc/ReflectUtil
+instanceKlass sun/util/ResourceBundleEnumeration
+instanceKlass javax/swing/UIDefaults$1
+instanceKlass java/util/LinkedList$Node
+instanceKlass javax/swing/UIManager$2
+instanceKlass sun/awt/PaintEventDispatcher
+instanceKlass javax/swing/RepaintManager$1
+instanceKlass sun/swing/SwingAccessor$RepaintManagerAccessor
+instanceKlass javax/swing/RepaintManager$DisplayChangedHandler
+instanceKlass javax/swing/RepaintManager
+instanceKlass javax/swing/plaf/metal/OceanTheme$6
+instanceKlass javax/swing/plaf/metal/OceanTheme$5
+instanceKlass javax/swing/plaf/metal/OceanTheme$4
+instanceKlass javax/swing/plaf/metal/OceanTheme$3
+instanceKlass javax/swing/plaf/metal/OceanTheme$2
+instanceKlass javax/swing/plaf/metal/OceanTheme$1
+instanceKlass  @bci javax/swing/plaf/metal/OceanTheme addCustomEntriesToTable (Ljavax/swing/UIDefaults;)V 1 <appendix> member <vmtarget> ; # javax/swing/plaf/metal/OceanTheme$$Lambda+0x0000021f4f016d50
+instanceKlass java/util/EventListenerProxy
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 12018 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f016458
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 11955 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f016238
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 11907 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f016018
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 11758 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f015df8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 11740 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f015bd8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 10675 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f0159b8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 10657 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f015798
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 10639 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f015578
+instanceKlass  @bci sun/awt/image/ImageWatched$WeakLink update (Ljava/awt/image/ImageObserver;Ljava/security/AccessControlContext;Ljava/awt/Image;IIIII)Z 21 <bsm> form vmentry <vmtarget> ; # java/lang/invoke/LambdaForm$DMH+0x0000021f4f011400
+instanceKlass java/lang/invoke/MethodHandle$1
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 10621 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f015100
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 10603 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f014ee0
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 10124 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f014cc0
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 10106 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f014aa0
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 9938 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f014880
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 9920 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f014660
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 9259 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f014440
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 9241 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f014220
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 9074 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f014000
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 9056 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01fdc8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 8779 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01fba8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 5003 <appendix> member <vmtarget> ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01f988
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 4983 <appendix> member <vmtarget> ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01f768
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 4963 <appendix> member <vmtarget> ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01f548
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 4943 <appendix> member <vmtarget> ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01f328
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 4923 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01f108
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 4887 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01eee8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 4869 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01ecc8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 4851 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01eaa8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 4833 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01e888
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 4204 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01e668
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 4186 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01e448
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3874 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01e228
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3858 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01e008
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3842 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01dde8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3826 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01dbc8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3810 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01d9a8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3794 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01d788
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3778 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01d568
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3762 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01d348
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3746 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01d128
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3730 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01cf08
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3509 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01cce8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 3399 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01cac8
+instanceKlass javax/swing/plaf/metal/MetalLookAndFeel$FontActiveValue
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2174 <appendix> member <vmtarget> ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01c670
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2165 <appendix> member <vmtarget> ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01c448
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2156 <appendix> member <vmtarget> ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01c220
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2147 <appendix> member <vmtarget> ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01bff8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2138 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01bdd8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2126 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01bbb8
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2119 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01b998
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2112 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01b778
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2105 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01b558
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2098 <appendix> member <vmtarget> ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01b330
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2089 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01b110
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2082 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01aef0
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2075 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01acd0
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 126 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01aab0
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 119 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01a890
+instanceKlass  @bci javax/swing/plaf/metal/MetalLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 112 <appendix> argL0 ; # javax/swing/plaf/metal/MetalLookAndFeel$$Lambda+0x0000021f4f01a670
+instanceKlass  @bci javax/swing/plaf/basic/BasicLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 10900 <appendix> argL0 ; # javax/swing/plaf/basic/BasicLookAndFeel$$Lambda+0x0000021f4f01a450
+instanceKlass  @bci javax/swing/plaf/basic/BasicLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 10882 <appendix> argL0 ; # javax/swing/plaf/basic/BasicLookAndFeel$$Lambda+0x0000021f4f01a230
+instanceKlass  @bci javax/swing/plaf/basic/BasicLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2622 <appendix> argL0 ; # javax/swing/plaf/basic/BasicLookAndFeel$$Lambda+0x0000021f4f01a010
+instanceKlass  @bci javax/swing/plaf/basic/BasicLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2604 <appendix> argL0 ; # javax/swing/plaf/basic/BasicLookAndFeel$$Lambda+0x0000021f4f019df0
+instanceKlass  @bci javax/swing/plaf/basic/BasicLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2586 <appendix> argL0 ; # javax/swing/plaf/basic/BasicLookAndFeel$$Lambda+0x0000021f4f019bd0
+instanceKlass  @bci javax/swing/plaf/basic/BasicLookAndFeel initComponentDefaults (Ljavax/swing/UIDefaults;)V 2568 <appendix> argL0 ; # javax/swing/plaf/basic/BasicLookAndFeel$$Lambda+0x0000021f4f0199b0
+instanceKlass javax/swing/UIDefaults$LazyInputMap
